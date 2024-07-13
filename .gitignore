@@ -1,0 +1,7 @@
+objs/*.o
+objs/raylib/*
+!objs/raylib/.gitkeep
+.vscode/
+basicwasm.html
+basicwasm.js
+basicwasm.wasm
